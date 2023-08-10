@@ -1,6 +1,7 @@
 package org.launchcode;
 import java.util.Scanner;
-public class areaofacircle {
+
+public class Area {
     public static void main(String[] args) {
         Scanner input;
         input = new Scanner(System.in);
